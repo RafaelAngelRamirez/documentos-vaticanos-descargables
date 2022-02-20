@@ -1,0 +1,21 @@
+{
+  "name": "documentos-vaticanos-desacargables",
+  "version": "0.1.0",
+  "description": "Documentos descargables",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelAngelRamirez/documentos-vaticanos-descargables.git"
+  },
+  "keywords": [
+    "vaticano",
+    "fe",
+    "esperanza",
+    "doctrina"
+  ],
+  "author": "Rafael Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaelAngelRamirez/documentos-vaticanos-descargables/issues"
+  },
+  "homepage": "https://github.com/RafaelAngelRamirez/documentos-vaticanos-descargables#readme"
+}
